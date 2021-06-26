@@ -26,4 +26,4 @@ I learned the dos and don't of larger datasets. This is one of the largest datat
 
 I learned how to select data from very large datasets using slices and groupby
 
-There were some issues with my installation that surfaced during this project, namely, python ran out of ram since I was using the 32-bit version of python unknowingly, so I had to reinstall is using the 64-bit version.
+There were some issues with my installation that surfaced during this project, namely, python ran out of ram since I was using the 32-bit version of python unknowingly, so I had to reinstall it using the 64-bit version.
